@@ -6,6 +6,12 @@
 
 ```npm run setup```
 
+
+## Para correr el server
+```npm run start```
+
+Todos los archivos van en `public`
+
 ## Para vincularlo a un repo de Heroku o Github
 ```git init```
 
@@ -22,8 +28,6 @@ o
 
 ```git push heroku master```
 
-## Para correr el server
-```npm run start```
 
 
 ## To do
