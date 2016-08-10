@@ -3,16 +3,23 @@
 
 ## Para instalar todo (solo la primera vez)
 ```cd nombre-del-proyecto```
+
 ```npm run setup```
 
 ## Para vincularlo a un repo de Heroku o Github
+```git init```
+
+### y después
+
 ```git remote add heroku {dirección del repo}```
 
 o
 
-```git remote add origin {dirección de github}```
+```git remote add origin {dirección del repo de github}```
 
-## Para subirlo a Heroku
+
+## Para subirlo a Heroku (add, commit y ...)
+
 ```git push heroku master```
 
 ## Para correr el server

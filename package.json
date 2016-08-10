@@ -6,6 +6,6 @@
     },
     "scripts": {
         "start": "node server.js",
-        "setup":"rm -rf .git && npm install && echo 'LISTO'"
+        "setup":"rm -rf .git && npm install"
     }
 }
