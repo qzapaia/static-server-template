@@ -8,9 +8,9 @@
 
 
 ## Para correr el server
-```npm run start```
+```npm start```
 
-Todos los archivos van en `public`
+**Todos los archivos van en `public`**
 
 ## Para vincularlo a un repo de Heroku o Github
 ```git init```
