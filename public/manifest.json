@@ -1,9 +1,9 @@
 {
   "lang": "en",
   "dir": "ltr",
-  "name": "Static Web Site",
+  "name": "Static Web",
   "description": "Description!",
-  "short_name": "WAAWS",
+  "short_name": "Website",
   "icons": [{
     "src": "icons/lowres.webp",
     "sizes": "64x64",
