@@ -1,5 +1,5 @@
 ## Para clonar este proyecto
-```git clone https://github.com/waaws/static-website.git nombre-del-proyecto```
+```git clone https://github.com/qzapaia/static-server-template nombre-del-proyecto```
 
 ## Para instalar todo (solo la primera vez)
 
