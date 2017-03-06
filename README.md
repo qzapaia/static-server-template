@@ -7,7 +7,12 @@
 
 ```npm run setup```
 
-```npm start```
+```npm run dev```
+
+## Estructura
+  - /public - Carpeta pública
+  - index.js - Servidor express con livereload
+  -
 
 ## TODO
 - webpack
